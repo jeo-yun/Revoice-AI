@@ -1,6 +1,6 @@
 # Privacy Policy for Revoice AI  
 
-**Effective Date:** [Insert Date]  
+**Effective Date:** 08-29-2025  
 
 Revoice AI (“the App”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our AI speech therapy app.  
 

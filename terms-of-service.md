@@ -1,9 +1,3 @@
-Got it — since your app is subscription-based, you’ll want a **clear Terms of Service (ToS)** that covers: subscriptions, cancellations, user responsibilities, intellectual property, disclaimers, and governing law.
-
-Here’s a draft you can adapt for **Revoice AI**:
-
----
-
 # Terms of Service
 
 **Effective Date:** 09-01-2025
